@@ -1,0 +1,31 @@
+{
+  "name": "gulp-flatten-json",
+  "version": "0.1.0",
+  "description": "A gulp plugin for transforming json files to flattened version",
+  "main": "index.js",
+  "dependencies": {
+    "gulp-util": "^3.0.8",
+    "through2": "^2.0.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alirezamirian/gulp-flatten-json.git"
+  },
+  "keywords": [
+    "gulp",
+    "gulp-plugin",
+    "flatten",
+    "json",
+    "flatten-json"
+  ],
+  "author": "Alireza Mirian (alireza.mirian@gmail.com)",
+  "license": "Apache License 2.0",
+  "bugs": {
+    "url": "https://github.com/alirezamirian/gulp-flatten-json/issues"
+  },
+  "homepage": "https://github.com/alirezamirian/gulp-flatten-json#readme"
+}
